@@ -44,8 +44,9 @@ A simple RESTful API built with **Express.js** for managing blog posts. This pro
     npm start
     ```
 
-4. The API will be running at [http://localhost:4000/posts](http://localhost:4000/posts).  
+4. The API will be running at [http://localhost:4000/posts](http://localhost:3000/posts).
+   You need to run server,js first and then the index.js.
+   index.js acts as the API to server.js.
    Use tools like [Postman](https://www.postman.com/) or [curl](https://curl.se/) to test the endpoints.
 
-## Example
 
